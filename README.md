@@ -18,7 +18,7 @@ Código base de la interfaz Crowdfund Hecha en React.js y Tailwind CSS.
 
 ## Enlace A La Aplicación
 
-- [Crowdfund](https://ui-crowdfund.netlify.app/)
+- [Crowdfund](https://crowdfund-ui-ux.netlify.app/)
 
 ---
 
